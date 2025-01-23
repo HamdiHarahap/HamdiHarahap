@@ -3,7 +3,7 @@
 ## About Me  
 I'm a passionate developer and tech enthusiast. I love building innovative solutions, learning new technologies, and contributing to exciting projects.  
 
-- 💻 Currently working on: Web development  
+- 💻 Currently focused on: Web development  
 - 🌱 Learning: JavaScript, React, PHP, Laravel, Node.js  
 - 🔗 Website: [Visit My Portfolio](https://my-porto-hmd.netlify.app/)  
 
