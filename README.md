@@ -17,8 +17,8 @@ Here are some of the technologies I work with:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamdiHarahap&layout=compact&langs_count=5&theme=dark)
 
 ## Let's Connect!  
-- 🌐 [Website/Portfolio](https://my-porto-hmd.netlify.app/)  
+- 🌐 Portofolio: [Website](https://my-porto-hmd.netlify.app/)  
 - 📧 Email: [hamdiharahap2005@gmail.com](mailto:hamdiharahap2005@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/hamdiharahap/)  
+- 💼 Linkedin: [Hamdi Harahap](https://www.linkedin.com/in/hamdiharahap/)  
 
 Thanks for stopping by! Feel free to explore my repositories and reach out for collaborations. 😊  
