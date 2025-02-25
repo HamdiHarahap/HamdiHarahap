@@ -5,7 +5,9 @@ I'm a passionate developer and tech enthusiast. I love building innovative solut
 
 - 💻 Currently focused on: Web development  
 - 🌱 Learning: JavaScript, React, PHP, Laravel, Node.js  
-- 🔗 Website: [Visit My Portfolio](https://my-porto-hmd.netlify.app/)  
+- 🔗 Website: [Visit My Portfolio](https://my-porto-hmd.netlify.app/)
+
+![Hamdi Harahap's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamdiHarahap&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ## Tech Stack  
 
