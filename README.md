@@ -1,11 +1,11 @@
-# Hi there, I'm Hamdi Harahap! 👋  
+# Hi there, I'm Hamdi Harahap!
 
 ## About Me  
 I'm a passionate developer and tech enthusiast. I love building innovative solutions, learning new technologies, and contributing to exciting projects.  
 
-- 💻 Currently focused on: Web development  
-- 🌱 Learning: JavaScript, React, PHP, Laravel, Node.js  
-- 🔗 Website: [Visit My Portfolio](https://hamdihrp.vercel.app/)
+- Currently focused on: Web development  
+- Learning: JavaScript, React, PHP, Laravel, Node.js  
+- Website: [Visit My Portfolio](https://hamdihrp.vercel.app/)
 
 ## Tech Stack  
 
@@ -17,8 +17,8 @@ Here are some of the technologies I work with:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamdiHarahap&layout=compact&langs_count=5&theme=dark)
 
 ## Let's Connect!  
-- 🌐 Portofolio: [Website](https://hamdihrp.vercel.app/)  
-- 📧 Email: [hamdiharahap2005@gmail.com](mailto:hamdiharahap2005@gmail.com)  
-- 💼 Linkedin: [Hamdi Harahap](https://www.linkedin.com/in/hamdiharahap/)  
+- Portofolio: [Website](https://hamdihrp.vercel.app/)  
+- Email: [hamdiharahap2005@gmail.com](mailto:hamdiharahap2005@gmail.com)  
+- Linkedin: [Hamdi Harahap](https://www.linkedin.com/in/hamdiharahap/)  
 
-Thanks for stopping by! Feel free to explore my repositories and reach out for collaborations. 😊  
+Thanks for stopping by! Feel free to explore my repositories and reach out for collaborations.
